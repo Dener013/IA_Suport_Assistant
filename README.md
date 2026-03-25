@@ -18,9 +18,7 @@ Siga os passos abaixo para executar o projeto:
 - Execute todas as células do notebook na ordem correta
 - O chatbot será iniciado automaticamente no terminal interativo
 3. Interagir com o chatbot
-
 Utilize as seguintes perguntas (mesmas do vídeo):
-
 1) Preciso resetar a senha
 2) Mas estou sem permissão
 3) Como posso abrir um chamado
@@ -28,5 +26,5 @@ Utilize as seguintes perguntas (mesmas do vídeo):
 4. Resultado esperado
 O chatbot responderá cada pergunta com base na base de conhecimento definida
 Após a terceira pergunta:
-Será gerado um resumo automático do atendimento
-A conversa será encerrada automaticamente
+- Será gerado um resumo automático do atendimento
+- A conversa será encerrada automaticamente

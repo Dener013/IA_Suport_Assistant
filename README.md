@@ -12,11 +12,11 @@ Além disso, o sistema possui uma regra de funcionamento específica: ele respon
 Siga os passos abaixo para executar o projeto:
 
 1. Acessar o ambiente
-- Abra o projeto no Google Colab
-- Configure sua chave de API do Google (Gemini) utilizando o userdata
+- Abra o projeto no Google Colab.
+- Configure sua chave de API do Google (Gemini) utilizando o userdata.
 2. Executar o código
-- Execute todas as células do notebook na ordem correta
-- O chatbot será iniciado automaticamente no terminal interativo
+- Execute todas as células do notebook na ordem correta.
+- O chatbot será iniciado automaticamente no terminal interativo.
 3. Interagir com o chatbot
 Utilize as seguintes perguntas (mesmas do vídeo):
 * Preciso resetar a senha
@@ -24,7 +24,7 @@ Utilize as seguintes perguntas (mesmas do vídeo):
 * Como posso abrir um chamado
 
 4. Resultado esperado
-O chatbot responderá cada pergunta com base na base de conhecimento definida
+O chatbot responderá cada pergunta com base na base de conhecimento definida.
 Após a terceira pergunta:
-- Será gerado um resumo automático do atendimento
-- A conversa será encerrada automaticamente
+- Será gerado um resumo automático do atendimento.
+- A conversa será encerrada automaticamente.
